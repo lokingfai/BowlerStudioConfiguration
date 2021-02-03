@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/lokingfai/javaCad_lokingfai.git": [
+      "lokingfai/javaCad_lokingfai",
+      "1612363699130"
+    ],
     "https://github.com/lokingfai/my-robot_1.git": [
       "lokingfai/my-robot_1",
       "1612276424258"
@@ -23,9 +27,9 @@
     "robotGit": "https://github.com/madhephaestus/carl-the-hexapod.git"
   },
   "studio-open-git": {
-    "https://github.com/lokingfai/helloWorld_lokingfai.git:helloWorld.groovy": [
-      "https://github.com/lokingfai/helloWorld_lokingfai.git",
-      "helloWorld.groovy"
+    "https://github.com/lokingfai/javaCad_lokingfai.git:javaCad.groovy": [
+      "https://github.com/lokingfai/javaCad_lokingfai.git",
+      "javaCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
