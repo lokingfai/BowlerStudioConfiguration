@@ -22,16 +22,11 @@
       "Dragon"
     ],
     "linkDeviceName": "dyio",
-    "robotName": "CarlTheWalkingRobot",
-    "robotGitFile": "CarlTheRobot.xml",
-    "robotGit": "https://github.com/madhephaestus/carl-the-hexapod.git"
+    "robotName": "DogRobot",
+    "robotGitFile": "DogRobot.xml",
+    "robotGit": "https://gist.github.com/f5b82075ea6dcca93f1ea44265497ec5.git"
   },
-  "studio-open-git": {
-    "https://github.com/lokingfai/javaCad_lokingfai.git:javaCad.groovy": [
-      "https://github.com/lokingfai/javaCad_lokingfai.git",
-      "javaCad.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.23.0",
